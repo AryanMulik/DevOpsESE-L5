@@ -1,0 +1,12 @@
+{
+  "name": "newsfeed-app",
+  "version": "1.0.0",
+  "description": "Simple newsfeed application for Kubernetes deployment",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
